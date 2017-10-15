@@ -92,3 +92,5 @@ vals = wavelib.normalize(vals)
 vals = wavelib.play_n(vals, 5)
 wavelib.write_wave_file('output/circle_fourths_chords.wav', vals)
 ```
+
+The full source code is available in the PyWaveTools repo, specifically this file: [circle_fourths_chords.py](https://github.com/randbrown/PyWaveTools/blob/master/circle_fourths_chords.py)
