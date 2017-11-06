@@ -18,7 +18,8 @@ comments: true
 
 I've been kind of obsessed with the [Shepard Tone](https://en.wikipedia.org/wiki/Shepard_tone) lately.  So
 I decided to write a program to generate some various shepard tones.  I've been learning Python and
-NumPy, so I added this to my [PyWaveTools](https://github.com/randbrown/PyWaveTools) repository.  In this post I'll focus on a rising glissando.
+NumPy, so I added this to my [PyWaveTools](https://github.com/randbrown/PyWaveTools) repository.  
+In this post I'll focus on a rising glissando.
 
 First, take a listen:
 
@@ -82,10 +83,13 @@ multiplying the frequencies by negative powers of 2.  For the lowest voice,
 it also scales the intensity (loudness) of the voice based on how far away
 the note is from the peak frequency.  In our example, the peak frequency
 is A3, so as the tone rises from A3 to A4, the lower octave voice will
-start at 0 intensity and rise to 1 (full intensity).  I achieve this by comparing the primary frequency to the peak frequency, and building a numpy
+start at 0 intensity and rise to 1 (full intensity).  I achieve this by comparing the primary frequency 
+to the peak frequency, and building a numpy
 array of intensities called intsi.  The vals for this voice are multiplied by intsi to fade it in.
 
-Similarly, I generate the higher voices by multiplying the frequencies by powers of 2.  For the highest, voice we do similar logic as before, but we want to fade it out as it rises, so we subtract the percentage of peak from 1 to achieve the fade out<sup><a href="#fn2" id="ref2">2</a></sup>.
+Similarly, I generate the higher voices by multiplying the frequencies by powers of 2.  For the highest, 
+voice we do similar logic as before, but we want to fade it out as it rises, so we subtract the 
+percentage of peak from 1 to achieve the fade out<sup><a href="#fn2" id="ref2">2</a></sup>.
 
 ```python
 def shepardtone(times, freq, waveform_generator = sinewave, peak_freq=None, num_octaves_down=3, num_octaves_up=3):
@@ -122,9 +126,28 @@ And finally we normalize it, repeat it a total of 5 times for a total of 60 seco
 ```
 
 ## Falling glissando
-Here is an example of falling instead of rising.  All the code is the same, except the frequency start/end are reversed.
+Here is an example of falling instead of rising.  All the code is the same, except the frequency 
+start/end are reversed.
 
 <iframe width="100%" height="265" src="https://clyp.it/actuydtj/widget" frameborder="0"></iframe>
+
+## Other Examples
+
+My code and sounds in this post are very simplistic examples.  Others have made much more sophisticated sounds. 
+
+Here is one of my favorites. Ten hours of falling shepard tone, with an excellent fractal display.  
+This is quite mesmorizing!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9VMfdG873E" frameborder="0" allowfullscreen></iframe>
+
+Here is a great example of using the Shepard tone concept, but applied in a much more musical way. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A41CITk85jk" frameborder="0" allowfullscreen></iframe>
+
+## Wrap Up
+In this post I focused on using the Shepard tone with glissandos.  In these examples I used a single 
+octave primary tone with just one lower and one higher voice.  
+A much richer tone can be achieved by stacking more octaves.  In my PyWaveTools repository there are also 
+examples of Shepard tone with discrete chromatic scales, along with other various experiments with generating 
+waveforms. 
 
 
 #### Notes
@@ -133,17 +156,6 @@ Here is an example of falling instead of rising.  All the code is the same, exce
 our perception is not linear, so the glissando will sound like it rises faster as it gets higher.  To make a
 more even sounding glissando, logarithmic scaling could be used.
 
-<a id="fn2" href="#ref2">2.</a>: Similar to frequeny, we perceive loudness non-linearly.  This means our loudness fade in and fade out may sound somewhat abrupt.  To make the fades smoother, logarithmic scaling of the intensities could be used.
-
-## Other Examples
-
-My code and sounds in this post are very simplistic examples.  Others have made much more sophisticated sounds. 
-
-Here is one of my favorites. Ten hours of falling shepard tone, with an excellent fractal display.  This is quite mesmorizing!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u9VMfdG873E" frameborder="0" allowfullscreen></iframe>
-
-Here is a great example of using the Shepard tone concept, but applied in a much more musical way. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A41CITk85jk" frameborder="0" allowfullscreen></iframe>
-
-## Wrap Up
-In this post I focused on using the Shepard tone with glissandos.  In my PyWaveTools repository there are also examples of Shepard tone with discrete chromatic scales, along with other various experiments with generating waveforms. 
+<a id="fn2" href="#ref2">2.</a>: Similar to frequeny, we perceive loudness non-linearly.  This means our 
+loudness fade in and fade out may sound somewhat abrupt.  To make the fades smoother, logarithmic scaling
+of the intensities could be used.
