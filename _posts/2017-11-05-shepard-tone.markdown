@@ -153,7 +153,7 @@ waveforms.
 #### Notes
 
 <a id="fn1" href="#ref1">1.</a>: Linear scaling works sufficiently for this example. However, with frequency,
-our perception is not linear, so the glissando will sound like it rises faster as it gets higher.  To make a
+our perception is not linear, so the glissando will sound like it rises more slowly as it gets higher.  To make a
 more even sounding glissando, logarithmic scaling could be used.
 
 <a id="fn2" href="#ref2">2.</a>: Similar to frequeny, we perceive loudness non-linearly.  This means our 
