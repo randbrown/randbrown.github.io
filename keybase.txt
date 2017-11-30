@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/randbrown
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://randbrown.site
+  * I am randbrown (https://keybase.io/randbrown) on keybase.
+  * I have a public key ASAKR6LzLyvc3L2LejV4i9WpOc6O1oo8dTwyZiYYBaT6UQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200a47a2f32f2bdcdcbd8b7a35788bd5a939ce8ed68a3c753c3266261805a4fa510a",
+      "host": "keybase.io",
+      "kid": "01200a47a2f32f2bdcdcbd8b7a35788bd5a939ce8ed68a3c753c3266261805a4fa510a",
+      "uid": "31810c6466ddbdbf86d53722e2762019",
+      "username": "randbrown"
+    },
+    "merkle_root": {
+      "ctime": 1512052938,
+      "hash": "5b30f542d0a062faf55cad2fd9fc20bdf45a96707d08f5aaf206110141e01ef87e82aeb4c3a8131629ea1d8fc383c63468b5f9448ac026c40e9d0a3a748ae1af",
+      "hash_meta": "809bf9eb5939dbcfa18e970bfcb42757c6efe6075fdfa34c845302338d29c113",
+      "seqno": 1765459
+    },
+    "service": {
+      "hostname": "randbrown.site",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.36"
+  },
+  "ctime": 1512052947,
+  "expire_in": 504576000,
+  "prev": "51714e0100a3a5a445587f3640cc158b862c03396ac3d06150d8a65da0591724",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCkei8y8r3Ny9i3o1eIvVqTnOjtaKPHU8MmYmGAWk+lEKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMGE0N2EyZjMyZjJiZGNkY2JkOGI3YTM1Nzg4YmQ1YTkzOWNlOGVkNjhhM2M3NTNjMzI2NjI2MTgwNWE0ZmE1MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGE0N2EyZjMyZjJiZGNkY2JkOGI3YTM1Nzg4YmQ1YTkzOWNlOGVkNjhhM2M3NTNjMzI2NjI2MTgwNWE0ZmE1MTBhIiwidWlkIjoiMzE4MTBjNjQ2NmRkYmRiZjg2ZDUzNzIyZTI3NjIwMTkiLCJ1c2VybmFtZSI6InJhbmRicm93biJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMjA1MjkzOCwiaGFzaCI6IjViMzBmNTQyZDBhMDYyZmFmNTVjYWQyZmQ5ZmMyMGJkZjQ1YTk2NzA3ZDA4ZjVhYWYyMDYxMTAxNDFlMDFlZjg3ZTgyYWViNGMzYTgxMzE2MjllYTFkOGZjMzgzYzYzNDY4YjVmOTQ0OGFjMDI2YzQwZTlkMGEzYTc0OGFlMWFmIiwiaGFzaF9tZXRhIjoiODA5YmY5ZWI1OTM5ZGJjZmExOGU5NzBiZmNiNDI3NTdjNmVmZTYwNzVmZGZhMzRjODQ1MzAyMzM4ZDI5YzExMyIsInNlcW5vIjoxNzY1NDU5fSwic2VydmljZSI6eyJob3N0bmFtZSI6InJhbmRicm93bi5zaXRlIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNiJ9LCJjdGltZSI6MTUxMjA1Mjk0NywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI1MTcxNGUwMTAwYTNhNWE0NDU1ODdmMzY0MGNjMTU4Yjg2MmMwMzM5NmFjM2QwNjE1MGQ4YTY1ZGEwNTkxNzI0Iiwic2Vxbm8iOjI1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQLRHS4K9vooB+bglVEodTb5+F3CGdmbtSFAhshNxeGfVoZKWB5HmEomzVC96yD0W37+A/9Gy36xMu4szglboPgioc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBl0oddGk2kksVs9SwBQP53Js049snq+JbbRO7ZJgXg8KN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/randbrown
+
+==================================================================
