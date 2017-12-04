@@ -34,8 +34,8 @@ are faded in or out to achieve a feeling of perpetual ascent or descent.
 For example, consider a glissando of a primary tone rising from A3 to A4, with the peak frequency of A3. We'll
 add a lower octave tone rising from A2 to A3 with its intensity (loudness) also rising during that
 time.  It starts at the A2 with intensity 0 (inaudible), and rises to A3 at intensity 1.0 (full
-volume).  Thus by the end of the gliss, the lower octave is ending on the same note/intensity where the primary tone started.
-voice.  Similarly, we add a higher voice rising from A4 to A5.  It starts at A4 at full volume (intensity 1.0),
+volume).  Thus by the end of the gliss, the lower octave voice is ending on the same note/intensity where the primary tone voice started.
+Similarly, we add a higher voice rising from A4 to A5.  It starts at A4 at full volume (intensity 1.0),
 and as it rises, the loudness is reduced, ending at intensity 0 at A5.  So the
 primary voice ends at the same note/intensity where the higher voice started.
 
@@ -139,8 +139,10 @@ Here is one of my favorites. Ten hours of falling shepard tone, with an excellen
 This is quite mesmorizing!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u9VMfdG873E" frameborder="0" allowfullscreen></iframe>
 
-Here is a great example of using the Shepard tone concept, but applied in a much more musical way. 
+Here is a great example of using the Shepard tone concept, but applied in a much more musical way. Bach's neverending canon:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A41CITk85jk" frameborder="0" allowfullscreen></iframe>
+See this blog post for an excellent analysis of the canon: [Bach and the musical torus By Tony Phillips](https://plus.maths.org/content/bach-and-musical-torus)
+
 
 ## Wrap Up
 In this post I focused on using the Shepard tone with glissandos.  In these examples I used a single 
