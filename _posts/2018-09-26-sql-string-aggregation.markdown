@@ -6,7 +6,7 @@ categories: sql
 comments: true
 ---
 
-<style>
+<style type="text/css">
 table{
     table-layout:fixed;
     width:100%;
