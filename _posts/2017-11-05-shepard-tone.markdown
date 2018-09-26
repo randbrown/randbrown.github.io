@@ -2,7 +2,7 @@
 layout: post
 title:  "The Shepard Tone"
 date:   2017-11-05 16:56:00 -0500
-categories: jekyll update
+categories: python music
 comments: true
 ---
 

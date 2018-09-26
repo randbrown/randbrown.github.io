@@ -2,7 +2,7 @@
 layout: post
 title:  "Circle of Fourths with Inversions"
 date:   2017-10-15 17:24:53 -0400
-categories: jekyll update
+categories: python music
 comments: true
 ---
 
