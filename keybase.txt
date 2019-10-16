@@ -4,7 +4,7 @@ https://keybase.io/randbrown
 
 I hereby claim:
 
-  * I am an admin of http://randbrown.site
+  * I am an admin of http://randbrown.com
   * I am randbrown (https://keybase.io/randbrown) on keybase.
   * I have a public key ASAKR6LzLyvc3L2LejV4i9WpOc6O1oo8dTwyZiYYBaT6UQo
 
@@ -26,7 +26,7 @@ To do so, I am signing this object:
       "seqno": 1765459
     },
     "service": {
-      "hostname": "randbrown.site",
+      "hostname": "randbrown.com",
       "protocol": "http:"
     },
     "type": "web_service_binding",

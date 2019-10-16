@@ -3,7 +3,7 @@
 Personal blog website built with Jekyll and GitHub Pages
 
 
-http://randbrown.site
+http://randbrown.com
 
 or
 
