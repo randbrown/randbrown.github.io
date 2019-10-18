@@ -1,0 +1,121 @@
+---
+layout: post
+title:  "Dark Mode"
+date:   2019-10-18 18:15:00 -0500
+categories: css webdev
+comments: true
+---
+
+I haven't done much web dev lately.  I had read about 
+[prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+but haven't had a chance to use it.  So I decided to do a couple of things:
+
+1. Update this site to use it.
+2. Make a quick test page to check if your browser is in light or dark mode.
+
+
+<iframe width="100%" height="200" src="/assets/html/darkmodetest.html" frameborder="0"></iframe>
+
+## Updating this site to observe the CSS prefers-color-scheme media query
+For the most part it was straightforward.  I just had to follow the normal instructions for
+adding custom CSS to a Jekyll project.  Namely, I had to create a custom file at:
+assets/main.scss
+And in that file, I used SCSS to @import minima.  Then, I just added on my customizations after that.
+
+I used the @media query for 'prefers-color-scheme: dark', and within that block, override 
+the body background and font colors.  That basically got it in the ballpark.  However, some elements
+like links and sample code blocks needed some special overrides.  So I experimented with a few
+CSS selectors and restyled them appropriately.  
+
+```css
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #333;
+    color: white;
+  }
+  .site-title,
+  .site-title:visited {
+    color: #bb86fc;
+  }
+  .site-nav .page-link {
+    color: #bb86fc;
+  }
+  a:link,
+  a:visited,
+  a:hover {
+    color: #bb86fc;
+  }
+
+  a:active {
+    color: #03dac6;
+  }
+
+  .highlight {
+    background-color: #333 !important;
+  }
+
+  pre,
+  code {
+    background-color: #333;
+  }
+
+}
+```
+
+It's not perfect, but it is a good start.  I will need to refine this more at some point (or possibly switch to a theme which supports it)
+
+
+## Dark/Light Mode Test Page
+
+[Here](/assets/html/darkmodetest.html) is a standalone page to test if you are in DARK or LIGHT mode.
+It is also hosted inside an iframe up above in this page, for quick reference.
+
+The code here was minimal. I created some classes .show-if-dark, .show-if-light, and .show-if-neither.  
+Each of the light/dark are hidden by default using display:none.  
+Then I used media queries for light and dark, and toggled the visibility back on using display:unset.  
+I toggled the .show-if-neither to hidden in both light and dark queries.
+
+```css
+.show-if-dark {
+    display: none;
+}
+.show-if-light {
+    display: none;
+}
+.show-if-neither {}
+
+@media (prefers-color-scheme: dark) {
+    .show-if-dark {
+        display: unset;
+    }
+    .show-if-neither {
+        display: none;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    .show-if-light {
+        display: unset;
+    }
+    .show-if-neither {
+        display: none;
+    }
+}
+```
+
+I then wrapped used 3 divs with these classes so the user is presented with the appropriate text:
+
+```html
+<div class="show-if-dark">You are in DARK mode</div>
+<div class="show-if-light">You are in LIGHT mode</div>
+<div class="show-if-neither">You are not in dark or light mode.
+    Perhaps your browser does not support it?
+</div>
+```
+
+This makes for a quick way to check whether your browser supports the media query, and which is 
+currently enabled.
+
+*Note to windows users:*
+As of this writing, Chrome and Firefox follow the "Choose your default app mode" selection, found
+in Windows 10 under Settings -> Personalization -> Colors.

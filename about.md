@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
+![Rand](/assets/pics/rand.jpg){: .profile-pic .image-flow }
+
 I am a software developer and musician.  At work, I write code for air quality monitoring and device communications. At home I like to dabble with things like web development and music-related coding.  I also volunteer as a software mentor with a FIRST Robotics team.
+
+{: .clearfix}
 
 ### Hobby Projects
 

@@ -6,15 +6,6 @@ categories: python music
 comments: true
 ---
 
-<style type="text/css">
-.image-flow {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  /* max-width: 50%; */
-  float: left;
-}
-</style>
 
 I've been exploring Python and NumPy for synthesizing music.  One program I wrote generates circles of fourths, with harmonic seventh chords, and inverts the chords such that all tones fall within a single octave.  This gives the feeling of a never ending descent of fifths or ascent of fourths (whichever way you choose to look at it), all without actually leaving the octave range.
 

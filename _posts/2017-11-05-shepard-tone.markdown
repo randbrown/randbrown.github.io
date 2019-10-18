@@ -6,16 +6,6 @@ categories: python music
 comments: true
 ---
 
-<style type="text/css">
-.image-flow {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  /* max-width: 50%; */
-  float: left;
-}
-</style>
-
 I've been kind of obsessed with the [Shepard Tone](https://en.wikipedia.org/wiki/Shepard_tone) lately.  So
 I decided to write a program to generate some various shepard tones.  I've been learning Python and
 NumPy, so I added this to my [PyWaveTools](https://github.com/randbrown/PyWaveTools) repository.  
