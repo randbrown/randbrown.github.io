@@ -30,7 +30,7 @@
 
 @media (prefers-color-scheme: dark) {
   body {
-    background: #333;
+    background: #252526;
     color: white;
   }
   .site-title,
@@ -46,17 +46,81 @@
     color: #bb86fc;
   }
 
+  a.post-link {
+    color: white;
+  }
+
   a:active {
     color: #03dac6;
   }
 
   .highlight {
-    background-color: #333 !important;
+    background-color: #1e1e1e !important;
   }
 
   pre,
   code {
-    background-color: #333;
+    background-color: #1e1e1e;
+  }
+
+  // element names
+  .highlight .nt {
+    color: #569cd6;
+  }
+  //  attributes
+  .highlight .na {
+    color: #9cdcfe;
+  }
+
+  // css class names
+  .highlight .nc {
+    color: #d7ba7d;
+  }
+
+  // variable names
+  .highlight .nv {
+    color: #9cdcfe;
+  }
+
+  // function names
+  .highlight .nf {
+    color: #dcdcaa;
+  }
+  // function names
+  .highlight .nb {
+    color: #dcdcaa;
+  }
+  // import names
+  .highlight .nn {
+    color: #d4d4d4;
+  }
+
+  // keywords
+  .highlight .k {
+    color: #c586c0;
+  }
+
+  // string literals
+  .highlight .s {
+    color: #ce9178;
+  }
+  // string literals
+  .highlight .s1 {
+    color: #ce9178;
+  }
+
+  // numeric literals
+  .highlight .mf {
+    color: #b5cea8;
+  }
+
+  //  literals
+  .highlight .m {
+    color: #ce9178;
+  }
+  //  literals
+  .highlight .no {
+    color: #ce9178;
   }
 
   table {
