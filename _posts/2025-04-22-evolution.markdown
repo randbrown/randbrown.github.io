@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Evolution"
+date:   2025-04-22 19:21:53 -0400
+categories: jekyll ai chatgpt poetry
+---
+
 1. Evolution is the competition between software agents to see who can reproduce and encode themselves and use a mechanism to perpetuate themselves.
 
 
