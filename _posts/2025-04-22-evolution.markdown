@@ -5,6 +5,22 @@ date:   2025-04-22 19:21:53 -0400
 categories: jekyll ai chatgpt poetry
 ---
 
+
+Poetry augmentation with ChatGPT
+
+I have been inspired by a dive into metaphysics, astrophysics, philosophy, theory of mind, and ai.  I am working on a new audio/visual project about these concepts, and I wanted one movement about Evolution. I wrote the following after a particularly good talk by Joscha Bach.
+
+>Evolution is the competition between software agents to see who can reproduce and encode themselves and use a mechanism to perpetuate themselves
+
+I pasted this into chatgpt 4.5 with the prompt:
+
+>Make 23 copies of this with only very minor mutations, which accumulate with each iteration.
+
+I am quite happy with the outcome. 
+Tag yourself lol....
+
+
+
 1. Evolution is the competition between software agents to see who can reproduce and encode themselves and use a mechanism to perpetuate themselves.
 
 
