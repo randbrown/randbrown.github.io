@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Circle of Fourths with Inversions"
+title:  "What would it be like if I existed?"
 date:   2025-05-02 09:47:53 -0400
 categories: consciousness philosophy
 comments: true
