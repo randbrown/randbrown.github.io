@@ -34,7 +34,7 @@ Randy Brown makes ambient live-code music as **voidstar** (also billed as **Rand
 | **plays** | pedal steel, Weissenborn / lap steel, guitar, live code (Strudel) |
 | **projects** | voidstar · nightjar · Dysmorphic Demiurge · randbrown (solo) |
 | **sound** | ambient and improvised, through metal, alternative rock, and chillhop |
-| **booking** | [@voidstar0 on Instagram](https://instagram.com/voidstar0) |
+| **booking** | [booking@randbrown.com](mailto:booking@randbrown.com) · [@randbrown on Instagram](https://instagram.com/randbrown) |
 {: .epk-facts}
 
 ## Bio
@@ -127,7 +127,7 @@ voidstar logos are in the [voidstar press kit](https://voidstar.sh/press#assets)
 
 ## Contact
 
-Booking, press, sessions, or collaboration: **DM [@voidstar0 on Instagram](https://instagram.com/voidstar0)**.
+Booking, press, sessions, or collaboration: **[booking@randbrown.com](mailto:booking@randbrown.com)**, or DM [@randbrown on Instagram](https://instagram.com/randbrown).
 
 | | |
 |---|---|
@@ -136,7 +136,7 @@ Booking, press, sessions, or collaboration: **DM [@voidstar0 on Instagram](https
 | nightjar | [Bandcamp](https://nightjar2.bandcamp.com/) · [Spotify](https://open.spotify.com/artist/7gUIO18J1PamynuT9W1xfr) |
 | Bandcamp | [Dysmorphic Demiurge](https://dysmorphicdemiurge.bandcamp.com/) |
 | YouTube | [@voidstar0_0](https://youtube.com/@voidstar0_0) |
-| Instagram | [@voidstar0](https://instagram.com/voidstar0) |
+| Instagram | [@randbrown](https://instagram.com/randbrown) · voidstar: [@voidstar0](https://instagram.com/voidstar0) |
 | voidstar | [voidstar.sh](https://voidstar.sh) |
 | GitHub | [@randbrown](https://github.com/randbrown) |
 {: .epk-links}
