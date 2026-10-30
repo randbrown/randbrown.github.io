@@ -55,19 +55,19 @@ Ambient, improvised pedal steel run through live code (Strudel), with audio-reac
 
 ### nightjar
 ![nightjar live at the Relix Theatre](/assets/pics/thumbs/nightjar-relix-2025-band.jpg){: .epk-thumb}
-Band — Randy on pedal steel.
+Indie Folk Rock Band — Randy on pedal steel.
 [Bandcamp](https://nightjar2.bandcamp.com/) · [Spotify](https://open.spotify.com/artist/7gUIO18J1PamynuT9W1xfr)
 {: .epk-project}
 
 ### Dysmorphic Demiurge
 ![Dysmorphic Demiurge cover art](/assets/pics/thumbs/dd-d-cover.jpg){: .epk-thumb}
-Metal band.
+Slamming Brutal Death Metal band studio project.
 [Bandcamp](https://dysmorphicdemiurge.bandcamp.com/)
 {: .epk-project}
 
 ### randbrown (solo)
 ![randbrown album art](/assets/pics/thumbs/randbrown_album_art.jpg){: .epk-thumb}
-Solo recordings, from alternative rock to chillhop and electronic music.
+Solo music, from alternative rock to chillhop to electronic and experimental sounds
 [SoundCloud](https://soundcloud.com/randbrown) · [Spotify](https://open.spotify.com/artist/3EmqGxyni2sorqbKgw2fTm) · [more on the music page](/music/)
 {: .epk-project}
 
