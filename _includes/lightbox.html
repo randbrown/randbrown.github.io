@@ -1,0 +1,58 @@
+<dialog class="lightbox" id="lightbox" aria-label="Image viewer">
+  <figure class="lb-figure">
+    <img class="lb-img" alt="">
+    <figcaption class="lb-bar">
+      <span class="lb-caption"></span>
+      <span class="lb-actions">
+        <a class="lb-dl" download>download ↓</a>
+        <button type="button" class="lb-btn" data-lb="prev" aria-label="Previous image">←</button>
+        <button type="button" class="lb-btn" data-lb="next" aria-label="Next image">→</button>
+        <button type="button" class="lb-btn" data-lb="close" aria-label="Close">✕</button>
+      </span>
+    </figcaption>
+  </figure>
+</dialog>
+<script>
+  // Lightbox for gallery.html: click a thumbnail to view full size; ←/→ step,
+  // Esc closes (native <dialog>), clicking the backdrop closes.
+  (function () {
+    var dialog = document.getElementById('lightbox');
+    if (!dialog || !dialog.showModal) return; // old browsers: thumbnails stay plain links
+    var items = Array.prototype.slice.call(document.querySelectorAll('[data-lightbox]'));
+    var img = dialog.querySelector('.lb-img');
+    var caption = dialog.querySelector('.lb-caption');
+    var dl = dialog.querySelector('.lb-dl');
+    var index = 0;
+
+    function show(i) {
+      index = (i + items.length) % items.length;
+      var a = items[index];
+      var thumb = a.querySelector('img');
+      img.src = a.href;
+      img.alt = thumb ? thumb.alt : '';
+      img.classList.toggle('rv-pixel', !!(thumb && thumb.classList.contains('rv-pixel')));
+      caption.textContent = a.getAttribute('data-caption') || '';
+      dl.href = a.href;
+    }
+
+    items.forEach(function (a, i) {
+      a.addEventListener('click', function (e) {
+        e.preventDefault();
+        show(i);
+        dialog.showModal();
+      });
+    });
+    dialog.addEventListener('click', function (e) {
+      var btn = e.target.closest('[data-lb]');
+      var action = btn && btn.getAttribute('data-lb');
+      if (action === 'prev') show(index - 1);
+      else if (action === 'next') show(index + 1);
+      else if (action === 'close' || e.target === dialog) dialog.close();
+    });
+    dialog.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowLeft') show(index - 1);
+      else if (e.key === 'ArrowRight') show(index + 1);
+    });
+    dialog.addEventListener('close', function () { img.removeAttribute('src'); });
+  })();
+</script>

@@ -1,0 +1,20 @@
+{%- comment -%}
+  Image grid with a full-size viewer. Usage:
+    {% include gallery.html items=site.data.press_gallery %}
+  Each item: full, thumb, label, alt, optional credit, optional pixel (crisp
+  upscaling). Clicking a thumbnail opens the viewer; without JS it's a plain
+  link to the full image. Each item also gets its own download link.
+{%- endcomment -%}
+<div class="epk-grid{% if include.class %} {{ include.class }}{% endif %}">
+{%- for it in include.items %}
+  {%- capture caption %}{{ it.label }}{% if it.credit %} · photo: {{ it.credit }}{% endif %}{% endcapture %}
+  <figure class="epk-item">
+    <a href="{{ it.full }}" class="epk-view" data-lightbox data-caption="{{ caption | escape }}"><img src="{{ it.thumb }}" alt="{{ it.alt | escape }}" loading="lazy"{% if it.pixel %} class="rv-pixel"{% endif %}></a>
+    <figcaption>{{ caption }} <a href="{{ it.full }}" download class="epk-dl">download ↓</a></figcaption>
+  </figure>
+{%- endfor %}
+</div>
+{%- unless lightbox_included %}
+{%- assign lightbox_included = true %}
+{% include lightbox.html %}
+{%- endunless %}
