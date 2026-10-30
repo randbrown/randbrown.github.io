@@ -108,20 +108,11 @@ Always lowercase `voidstar`, including in "Randy Brown's voidstar".
 
 ## Photos & art
 
-Click a thumbnail for the full-size file. Please credit photographers where listed.
+Click any image to view it full size. Please credit photographers where listed.
 
-<div class="epk-grid">
-  <a href="/assets/pics/press/nightjar-relix-2025-steel.jpg" download><img src="/assets/pics/thumbs/nightjar-relix-2025-steel.jpg" alt="Randy Brown playing pedal steel on stage" loading="lazy"><span>pedal steel · nightjar, Relix Theatre 2025 · photo: Inside of Knoxville</span></a>
-  <a href="/assets/pics/press/nightjar-relix-2025-band.jpg" download><img src="/assets/pics/thumbs/nightjar-relix-2025-band.jpg" alt="Randy Brown at the pedal steel with nightjar" loading="lazy"><span>nightjar, Relix Theatre 2025 · photo: Inside of Knoxville</span></a>
-  <a href="/assets/pics/press/voidstar-live-qualia.jpg" download><img src="/assets/pics/thumbs/voidstar-live-qualia.jpg" alt="Randy Brown at the pedal steel with qualia projected behind" loading="lazy"><span>voidstar live · qualia on the wall · photo: Victoria Kay</span></a>
-  <a href="/assets/pics/press/voidstar-live-code.jpg" download><img src="/assets/pics/thumbs/voidstar-live-code.jpg" alt="Randy Brown playing pedal steel against projected code" loading="lazy"><span>voidstar · steel + projected code · photo: Paul Seguna</span></a>
-  <a href="/assets/pics/press/voidstar-stream-still.jpg" download><img src="/assets/pics/thumbs/voidstar-stream-still.jpg" alt="Live code layered over Randy Brown at pedal steel and laptop" loading="lazy"><span>voidstar · live-coding the steel · photo: Knoxville Community Media</span></a>
-  <a href="/assets/pics/rv_portrait.png" download><img src="/assets/pics/thumbs/rv_portrait.jpg" alt="Ramblin' Visioneer stained-glass poster" loading="lazy"><span>ramblin' visioneer · poster</span></a>
-  <a href="/assets/pics/rv.jpg" download><img src="/assets/pics/thumbs/rv.jpg" alt="Ramblin' Visioneer square art" loading="lazy"><span>ramblin' visioneer · square</span></a>
-  <a href="/assets/pics/sasquatch.png" download><img src="/assets/pics/thumbs/sasquatch.jpg" alt="Stained-glass Sasquatch with monster truck" loading="lazy"><span>@randbrown sasquatch</span></a>
-  <a href="/assets/pics/randbrown_album_art.jpg" download><img src="/assets/pics/thumbs/randbrown_album_art.jpg" alt="randbrown album art" loading="lazy"><span>randbrown album art</span></a>
-  <a href="/assets/pics/dd-d-cover.jpg" download><img src="/assets/pics/thumbs/dd-d-cover.jpg" alt="Dysmorphic Demiurge cover art" loading="lazy"><span>Dysmorphic Demiurge cover</span></a>
-</div>
+{% include gallery.html items=site.data.press_gallery %}
+
+<p><a href="/assets/press/randy-brown-press-photos.zip" download class="epk-zip">Download all press photos (.zip) ↓</a> (includes photo credits)</p>
 
 voidstar logos are in the [voidstar press kit](https://voidstar.sh/press#assets); more Visioneer art is on the [ramblin' visioneer](/visioneer/) page. Higher-res files on request.
 

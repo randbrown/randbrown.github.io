@@ -24,15 +24,9 @@ If you're here, we probably met somewhere out there (a festival, a burn, a camps
 
 ## The collection
 
-I hand out different designs, so yours might be any of these. Tap one for the full-size file. They make good phone wallpapers.
+I hand out different designs, so yours might be any of these. Tap one to see it full size, or grab the download. They make good phone wallpapers.
 
-<div class="epk-grid rv-grid">
-  <a href="/assets/pics/visioneer/ramblin-visioneer-cosmic.jpg" download><img src="/assets/pics/thumbs/ramblin-visioneer-cosmic.jpg" alt="Cosmic Ramblin' Visioneer sticker" loading="lazy"><span>cosmic</span></a>
-  <a href="/assets/pics/rv_portrait.png" download><img src="/assets/pics/thumbs/rv_portrait.jpg" alt="Stained-glass Ramblin' Visioneer poster" loading="lazy"><span>stained glass</span></a>
-  <a href="/assets/pics/rv.jpg" download><img src="/assets/pics/thumbs/rv.jpg" alt="Painted Ramblin' Visioneer sticker" loading="lazy"><span>painted</span></a>
-  <a href="/assets/pics/sasquatch.png" download><img src="/assets/pics/thumbs/sasquatch.jpg" alt="Stained-glass Sasquatch throwing horns over a monster truck" loading="lazy"><span>rock on</span></a>
-  <a href="/assets/pics/visioneer/ramblin-visioneer-8bit.png" download><img class="rv-pixel" src="/assets/pics/thumbs/ramblin-visioneer-8bit.png" alt="8-bit pixel-art Ramblin' Visioneer" loading="lazy"><span>8-bit</span></a>
-</div>
+{% include gallery.html items=site.data.visioneer_gallery class="rv-grid" %}
 
 The 8-bit Visioneer also lives inside [voidstar](https://voidstar.sh)'s live visuals, where it walks, jumps, and dances along to the music.
 

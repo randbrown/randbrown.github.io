@@ -1,0 +1,7 @@
+[
+  { "full": "/assets/pics/visioneer/ramblin-visioneer-cosmic.jpg", "thumb": "/assets/pics/thumbs/ramblin-visioneer-cosmic.jpg", "label": "cosmic", "alt": "Cosmic Ramblin' Visioneer sticker" },
+  { "full": "/assets/pics/rv_portrait.png", "thumb": "/assets/pics/thumbs/rv_portrait.jpg", "label": "stained glass", "alt": "Stained-glass Ramblin' Visioneer poster" },
+  { "full": "/assets/pics/rv.jpg", "thumb": "/assets/pics/thumbs/rv.jpg", "label": "painted", "alt": "Painted Ramblin' Visioneer sticker" },
+  { "full": "/assets/pics/sasquatch.png", "thumb": "/assets/pics/thumbs/sasquatch.jpg", "label": "rock on", "alt": "Stained-glass Sasquatch throwing horns over a monster truck" },
+  { "full": "/assets/pics/visioneer/ramblin-visioneer-8bit.png", "thumb": "/assets/pics/thumbs/ramblin-visioneer-8bit.png", "label": "8-bit", "alt": "8-bit pixel-art Ramblin' Visioneer", "pixel": true }
+]
