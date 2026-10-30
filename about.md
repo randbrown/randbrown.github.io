@@ -14,6 +14,7 @@ I am a software developer and musician.  At work, I write code for air quality m
 
 * [music](/music/) · [press kit](/press/)
 * [voidstar](https://voidstar.sh): live coding, pedal steel, and audio-reactive visuals
+* [ramblin' visioneer](/visioneer/): my festival name, and the Sasquatch on the stickers
 
 ### Hobby Projects
 
