@@ -34,7 +34,7 @@ Randy Brown makes ambient live-code music as **voidstar** (also billed as **Rand
 | **plays** | pedal steel, Weissenborn / lap steel, guitar, live code (Strudel) |
 | **projects** | voidstar · nightjar · Dysmorphic Demiurge · randbrown (solo) |
 | **sound** | ambient and improvised, through metal, alternative rock, and chillhop |
-| **booking** | [@voidstar0 on Instagram](https://instagram.com/voidstar0) |
+| **booking** | [booking@randbrown.com](mailto:booking@randbrown.com) · [@randbrown on Instagram](https://instagram.com/randbrown) |
 {: .epk-facts}
 
 ## Bio
@@ -48,7 +48,7 @@ Randy Brown makes ambient live-code music as **voidstar** (also billed as **Rand
 ## Projects
 
 ### voidstar — *Randy Brown's voidstar*
-![voidstar](/assets/pics/thumbs/rv.jpg){: .epk-thumb}
+![voidstar logo](/assets/pics/thumbs/voidstar_logo_cosmos_atom_0.jpg){: .epk-thumb}
 Ambient, improvised pedal steel run through live code (Strudel), with audio-reactive, pose-tracked visuals from **qualia** — an open-source performance instrument that runs in a browser. Solo, or as a father/son duo with Cade Brown.
 [voidstar.sh](https://voidstar.sh) · [voidstar press kit](https://voidstar.sh/press) · [YouTube](https://youtube.com/@voidstar0_0) · [Instagram](https://instagram.com/voidstar0)
 {: .epk-project}
@@ -113,9 +113,9 @@ Click a thumbnail for the full-size file. Please credit photographers where list
 <div class="epk-grid">
   <a href="/assets/pics/press/nightjar-relix-2025-steel.jpg" download><img src="/assets/pics/thumbs/nightjar-relix-2025-steel.jpg" alt="Randy Brown playing pedal steel on stage" loading="lazy"><span>pedal steel · nightjar, Relix Theatre 2025 · photo: Inside of Knoxville</span></a>
   <a href="/assets/pics/press/nightjar-relix-2025-band.jpg" download><img src="/assets/pics/thumbs/nightjar-relix-2025-band.jpg" alt="Randy Brown at the pedal steel with nightjar" loading="lazy"><span>nightjar, Relix Theatre 2025 · photo: Inside of Knoxville</span></a>
-  <a href="/assets/pics/press/voidstar-live-qualia.jpg" download><img src="/assets/pics/thumbs/voidstar-live-qualia.jpg" alt="Randy Brown at the pedal steel with qualia projected behind" loading="lazy"><span>voidstar live · qualia on the wall</span></a>
-  <a href="/assets/pics/press/voidstar-live-code.jpg" download><img src="/assets/pics/thumbs/voidstar-live-code.jpg" alt="Randy Brown playing pedal steel against projected code" loading="lazy"><span>voidstar · steel + projected code</span></a>
-  <a href="/assets/pics/press/voidstar-stream-still.jpg" download><img src="/assets/pics/thumbs/voidstar-stream-still.jpg" alt="Live code layered over Randy Brown at pedal steel and laptop" loading="lazy"><span>voidstar · live-coding the steel</span></a>
+  <a href="/assets/pics/press/voidstar-live-qualia.jpg" download><img src="/assets/pics/thumbs/voidstar-live-qualia.jpg" alt="Randy Brown at the pedal steel with qualia projected behind" loading="lazy"><span>voidstar live · qualia on the wall · photo: Victoria Kay</span></a>
+  <a href="/assets/pics/press/voidstar-live-code.jpg" download><img src="/assets/pics/thumbs/voidstar-live-code.jpg" alt="Randy Brown playing pedal steel against projected code" loading="lazy"><span>voidstar · steel + projected code · photo: Paul Seguna</span></a>
+  <a href="/assets/pics/press/voidstar-stream-still.jpg" download><img src="/assets/pics/thumbs/voidstar-stream-still.jpg" alt="Live code layered over Randy Brown at pedal steel and laptop" loading="lazy"><span>voidstar · live-coding the steel · photo: Knoxville Community Media</span></a>
   <a href="/assets/pics/rv_portrait.png" download><img src="/assets/pics/thumbs/rv_portrait.jpg" alt="Ramblin' Visioneer stained-glass poster" loading="lazy"><span>ramblin' visioneer · poster</span></a>
   <a href="/assets/pics/rv.jpg" download><img src="/assets/pics/thumbs/rv.jpg" alt="Ramblin' Visioneer square art" loading="lazy"><span>ramblin' visioneer · square</span></a>
   <a href="/assets/pics/sasquatch.png" download><img src="/assets/pics/thumbs/sasquatch.jpg" alt="Stained-glass Sasquatch with monster truck" loading="lazy"><span>@randbrown sasquatch</span></a>
@@ -123,11 +123,11 @@ Click a thumbnail for the full-size file. Please credit photographers where list
   <a href="/assets/pics/dd-d-cover.jpg" download><img src="/assets/pics/thumbs/dd-d-cover.jpg" alt="Dysmorphic Demiurge cover art" loading="lazy"><span>Dysmorphic Demiurge cover</span></a>
 </div>
 
-voidstar logos are in the [voidstar press kit](https://voidstar.sh/press#assets). Higher-res files on request.
+voidstar logos are in the [voidstar press kit](https://voidstar.sh/press#assets); more Visioneer art is on the [ramblin' visioneer](/visioneer/) page. Higher-res files on request.
 
 ## Contact
 
-Booking, press, sessions, or collaboration: **DM [@voidstar0 on Instagram](https://instagram.com/voidstar0)**.
+Booking, press, sessions, or collaboration: **[booking@randbrown.com](mailto:booking@randbrown.com)**, or DM [@randbrown on Instagram](https://instagram.com/randbrown).
 
 | | |
 |---|---|
@@ -136,7 +136,7 @@ Booking, press, sessions, or collaboration: **DM [@voidstar0 on Instagram](https
 | nightjar | [Bandcamp](https://nightjar2.bandcamp.com/) · [Spotify](https://open.spotify.com/artist/7gUIO18J1PamynuT9W1xfr) |
 | Bandcamp | [Dysmorphic Demiurge](https://dysmorphicdemiurge.bandcamp.com/) |
 | YouTube | [@voidstar0_0](https://youtube.com/@voidstar0_0) |
-| Instagram | [@voidstar0](https://instagram.com/voidstar0) |
+| Instagram | [@randbrown](https://instagram.com/randbrown) · voidstar: [@voidstar0](https://instagram.com/voidstar0) |
 | voidstar | [voidstar.sh](https://voidstar.sh) |
 | GitHub | [@randbrown](https://github.com/randbrown) |
 {: .epk-links}
