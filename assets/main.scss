@@ -28,6 +28,94 @@
   clear: both;
 }
 
+// home page (index.md)
+.home-hero {
+  display: flex;
+  gap: 1.5em;
+  align-items: center;
+  margin-bottom: 2em;
+  @media (max-width: 640px) {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+.home-hero-photo {
+  flex: 0 0 46%;
+  margin: 0;
+  img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  figcaption {
+    font-size: 0.75em;
+    opacity: 0.7;
+    margin-top: 0.3em;
+  }
+}
+.home-hero-copy {
+  h1 {
+    margin-bottom: 0.1em;
+  }
+}
+.home-tagline {
+  font-family: monospace;
+  font-size: 0.9em;
+  opacity: 0.75;
+}
+.home-heading {
+  margin-top: 0.5em;
+}
+.home-projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1em 1.5em;
+  margin-bottom: 1.5em;
+}
+.home-project {
+  display: flex;
+  gap: 0.9em;
+  align-items: flex-start;
+  img {
+    flex: 0 0 84px;
+    width: 84px;
+    height: 84px;
+    object-fit: cover;
+    border-radius: 6px;
+  }
+  h3 {
+    margin: 0 0 0.2em;
+    font-size: 1.1em;
+  }
+  p {
+    margin: 0 0 0.2em;
+    font-size: 0.9em;
+  }
+}
+.home-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 0.8em;
+  margin-bottom: 2.5em;
+}
+.home-tile {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2em;
+  padding: 0.9em 1em;
+  border: 1px solid rgba(128, 128, 128, 0.35);
+  border-radius: 8px;
+  text-decoration: none;
+  span {
+    font-size: 0.85em;
+    opacity: 0.75;
+    color: inherit;
+  }
+  &:hover {
+    text-decoration: none;
+    border-color: #3794ff;
+  }
+}
+
 // press kit (/press/)
 .epk-kicker {
   font-family: monospace;
