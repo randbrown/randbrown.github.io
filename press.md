@@ -50,7 +50,7 @@ Randy Brown makes ambient live-code music as **voidstar** (also billed as **Rand
 ### voidstar — *Randy Brown's voidstar*
 ![voidstar logo](/assets/pics/thumbs/voidstar_logo_cosmos_atom_0.jpg){: .epk-thumb}
 Ambient, improvised pedal steel run through live code (Strudel), with audio-reactive, pose-tracked visuals from **qualia** — an open-source performance instrument that runs in a browser. Solo, or as a father/son duo with Cade Brown.
-[voidstar.sh](https://voidstar.sh) · [voidstar press kit](https://voidstar.sh/press) · [YouTube](https://youtube.com/@voidstar0_0) · [Instagram](https://instagram.com/voidstar0)
+[voidstar.sh](https://voidstar.sh) · [voidstar press kit](https://voidstar.sh/press) · [YouTube](https://www.youtube.com/@skinnyriz) · [Instagram](https://instagram.com/voidstar0)
 {: .epk-project}
 
 ### nightjar
@@ -93,7 +93,7 @@ voidstar, live — pedal steel, live code, and qualia visuals.
   <iframe src="https://www.youtube-nocookie.com/embed/EeD-36oJScs?start=1003" title="voidstar live set" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-More sets on [YouTube](https://youtube.com/@voidstar0_0) and at [voidstar.sh/videos](https://voidstar.sh/videos).
+More sets on [YouTube](https://www.youtube.com/@skinnyriz) and at [voidstar.sh/videos](https://voidstar.sh/videos).
 
 ## Billing
 
@@ -126,7 +126,7 @@ Booking, press, sessions, or collaboration: **[booking@randbrown.com](mailto:boo
 | Spotify | [randbrown](https://open.spotify.com/artist/3EmqGxyni2sorqbKgw2fTm) |
 | nightjar | [Bandcamp](https://nightjar2.bandcamp.com/) · [Spotify](https://open.spotify.com/artist/7gUIO18J1PamynuT9W1xfr) |
 | Bandcamp | [Dysmorphic Demiurge](https://dysmorphicdemiurge.bandcamp.com/) |
-| YouTube | [@voidstar0_0](https://youtube.com/@voidstar0_0) |
+| YouTube | [@skinnyriz](https://www.youtube.com/@skinnyriz) |
 | Instagram | [@randbrown](https://instagram.com/randbrown) · voidstar: [@voidstar0](https://instagram.com/voidstar0) |
 | voidstar | [voidstar.sh](https://voidstar.sh) |
 | GitHub | [@randbrown](https://github.com/randbrown) |
