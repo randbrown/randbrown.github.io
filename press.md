@@ -11,8 +11,8 @@ permalink: /press/
 **Pedal steel, guitar, and live code — Knoxville, Tennessee.**
 
 <figure class="epk-hero">
-  <img src="/assets/pics/press/nightjar-relix-2025-steel.jpg" alt="Randy Brown playing a Williams pedal steel on stage">
-  <figcaption>with nightjar · Relix Theatre, Knoxville, 2025 · photo: Inside of Knoxville</figcaption>
+  <img src="/assets/pics/press/boot-scootin-mill-and-mine-2026-closeup.jpg" alt="Close-up of Randy Brown playing an Emmons pedal steel on stage">
+  <figcaption>Neon Rainbow Presents: Boot Scootin' Boogie Nights · The Mill &amp; Mine, 2026 · photo: Eli Johnson</figcaption>
 </figure>
 
 Randy Brown makes ambient live-code music as **voidstar** (also billed as **Randy Brown's voidstar**), plays pedal steel in **[nightjar](https://nightjar2.bandcamp.com/)**, is in the metal band **Dysmorphic Demiurge**, and releases solo music as **randbrown**.
