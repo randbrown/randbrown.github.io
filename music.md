@@ -13,6 +13,8 @@ permalink: /music/
 
 [Spotify - https://open.spotify.com/artist/3EmqGxyni2sorqbKgw2fTm](https://open.spotify.com/artist/3EmqGxyni2sorqbKgw2fTm)
 
+[Press kit / EPK - bios, photos, links, booking](/press/)
+
 
 {: .clearfix}
 ## S O L O  
@@ -26,3 +28,7 @@ My style ranges from alternative rock to chillhop and electronic music.
 ## C O L L A B
 
 I am also in a metal band [`Dysmorphic Demiurge`](https://dysmorphicdemiurge.bandcamp.com/) 
+
+## V O I D S T A R
+
+Ambient pedal steel through live code, with audio-reactive visuals — also billed as `Randy Brown's voidstar`. See [voidstar.sh](https://voidstar.sh) and its [press kit](https://voidstar.sh/press).

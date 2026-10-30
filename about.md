@@ -10,6 +10,11 @@ I am a software developer and musician.  At work, I write code for air quality m
 
 {: .clearfix}
 
+### Music
+
+* [music](/music/) · [press kit](/press/)
+* [voidstar](https://voidstar.sh): live coding, pedal steel, and audio-reactive visuals
+
 ### Hobby Projects
 
 * [Rhythm Rascal](http://www.rhythmrascal.com)
