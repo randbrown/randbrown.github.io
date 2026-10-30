@@ -27,7 +27,10 @@ My style ranges from alternative rock to chillhop and electronic music.
 
 ## C O L L A B
 
-I am also in a metal band [`Dysmorphic Demiurge`](https://dysmorphicdemiurge.bandcamp.com/) 
+I am also in a metal band [`Dysmorphic Demiurge`](https://dysmorphicdemiurge.bandcamp.com/)
+
+I play pedal steel in [`nightjar`](https://nightjar2.bandcamp.com/) ([Spotify](https://open.spotify.com/artist/7gUIO18J1PamynuT9W1xfr))
+
 
 ## V O I D S T A R
 
