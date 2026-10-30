@@ -68,6 +68,20 @@
     margin-top: 0.3em;
   }
 }
+// ramblin' visioneer (/visioneer/)
+.rv-hero {
+  margin: 0 0 1.5em;
+  img {
+    width: 100%;
+    max-width: 640px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+}
+.rv-grid .rv-pixel {
+  image-rendering: pixelated;
+}
 .epk-bio {
   border-left: 3px solid #3794ff;
   padding-left: 1em;

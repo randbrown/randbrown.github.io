@@ -48,7 +48,7 @@ Randy Brown makes ambient live-code music as **voidstar** (also billed as **Rand
 ## Projects
 
 ### voidstar — *Randy Brown's voidstar*
-![voidstar](/assets/pics/thumbs/rv.jpg){: .epk-thumb}
+![voidstar logo](/assets/pics/thumbs/voidstar_logo_cosmos_atom_0.jpg){: .epk-thumb}
 Ambient, improvised pedal steel run through live code (Strudel), with audio-reactive, pose-tracked visuals from **qualia** — an open-source performance instrument that runs in a browser. Solo, or as a father/son duo with Cade Brown.
 [voidstar.sh](https://voidstar.sh) · [voidstar press kit](https://voidstar.sh/press) · [YouTube](https://youtube.com/@voidstar0_0) · [Instagram](https://instagram.com/voidstar0)
 {: .epk-project}
@@ -123,7 +123,7 @@ Click a thumbnail for the full-size file. Please credit photographers where list
   <a href="/assets/pics/dd-d-cover.jpg" download><img src="/assets/pics/thumbs/dd-d-cover.jpg" alt="Dysmorphic Demiurge cover art" loading="lazy"><span>Dysmorphic Demiurge cover</span></a>
 </div>
 
-voidstar logos are in the [voidstar press kit](https://voidstar.sh/press#assets). Higher-res files on request.
+voidstar logos are in the [voidstar press kit](https://voidstar.sh/press#assets); more Visioneer art is on the [ramblin' visioneer](/visioneer/) page. Higher-res files on request.
 
 ## Contact
 
