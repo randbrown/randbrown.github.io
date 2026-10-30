@@ -5,8 +5,8 @@ list_title: Writing
 
 <section class="home-hero">
   <figure class="home-hero-photo">
-    <img src="/assets/pics/press/nightjar-relix-2025-steel.jpg" alt="Randy Brown playing a Williams pedal steel on stage">
-    <figcaption>with nightjar · Relix Theatre, 2025 · photo: Inside of Knoxville</figcaption>
+    <img src="/assets/pics/press/boot-scootin-mill-and-mine-2026-closeup.jpg" alt="Close-up of Randy Brown playing an Emmons pedal steel on stage">
+    <figcaption>Boot Scootin' Boogie Nights · The Mill &amp; Mine, 2026 · photo: Eli Johnson</figcaption>
   </figure>
   <div class="home-hero-copy">
     <h1>Randy Brown</h1>
