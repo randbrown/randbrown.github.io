@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{%- comment -%}
+  Override of minima's home layout: shows only the most recent posts
+  (page.post_limit, default 5) and links to the full list at /posts/.
+{%- endcomment -%}
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    {%- assign post_limit = page.post_limit | default: 5 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    {% include post-list.html limit=post_limit %}
+    {%- if site.posts.size > post_limit %}
+    <p class="all-posts"><a href="{{ "/posts/" | relative_url }}">All {{ site.posts.size }} posts →</a></p>
+    {%- endif %}
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>

@@ -32,8 +32,8 @@ list_title: Writing
 </div>
 
 <div class="home-tiles">
-  <a href="/press/" class="home-tile"><strong>Press kit</strong><span>bios, photos, billing, booking</span></a>
-  <a href="/music/" class="home-tile"><strong>Music</strong><span>listen to the solo records</span></a>
-  <a href="/visioneer/" class="home-tile"><strong>Ramblin' Visioneer</strong><span>got a sticker? start here</span></a>
-  <a href="/about/" class="home-tile"><strong>About</strong><span>code, volunteering, side projects</span></a>
+  <a href="/press/" class="home-tile"><strong>Press kit</strong> <span>bios, photos, billing, booking</span> </a>
+  <a href="/music/" class="home-tile"><strong>Music</strong> <span>listen to the solo records</span> </a>
+  <a href="/visioneer/" class="home-tile"><strong>Ramblin' Visioneer</strong> <span>got a sticker? start here</span> </a>
+  <a href="/about/" class="home-tile"><strong>About</strong> <span>code, volunteering, side projects</span> </a>
 </div>
