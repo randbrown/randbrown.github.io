@@ -1,0 +1,26 @@
+[
+  {
+    "name": "voidstar",
+    "thumb": "/assets/pics/thumbs/voidstar_logo_cosmos_atom_0.jpg",
+    "blurb": "Ambient pedal steel run through live code, with audio-reactive visuals. Also billed as Randy Brown's voidstar.",
+    "links": [{ "label": "voidstar.sh", "href": "https://voidstar.sh" }, { "label": "YouTube", "href": "https://youtube.com/@voidstar0_0" }]
+  },
+  {
+    "name": "nightjar",
+    "thumb": "/assets/pics/thumbs/nightjar-relix-2025-band.jpg",
+    "blurb": "Band. I play pedal steel.",
+    "links": [{ "label": "Bandcamp", "href": "https://nightjar2.bandcamp.com/" }, { "label": "Spotify", "href": "https://open.spotify.com/artist/7gUIO18J1PamynuT9W1xfr" }]
+  },
+  {
+    "name": "Dysmorphic Demiurge",
+    "thumb": "/assets/pics/thumbs/dd-d-cover.jpg",
+    "blurb": "Metal band.",
+    "links": [{ "label": "Bandcamp", "href": "https://dysmorphicdemiurge.bandcamp.com/" }]
+  },
+  {
+    "name": "randbrown",
+    "thumb": "/assets/pics/thumbs/randbrown_album_art.jpg",
+    "blurb": "Solo records, from alternative rock to chillhop and electronic.",
+    "links": [{ "label": "SoundCloud", "href": "https://soundcloud.com/randbrown" }, { "label": "Spotify", "href": "https://open.spotify.com/artist/3EmqGxyni2sorqbKgw2fTm" }]
+  }
+]
